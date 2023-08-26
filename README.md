@@ -12,15 +12,15 @@ Hi there! 👋 I'm Jotham Rizanth, a passionate developer and ethical-hacker. I 
 - No job. LOL!
 
 ## 🚀 Featured Projects
-### Project 1: OpenRedirection
-A website that is vulnerable to open redirection attacks. Used for demonstration.
+### Project 1: WebCrypt
+It is a simple web-based encryptor-decryptor program.
 
-Repo: [OpenRedirection](https://github.com/vulnerable9/openredirection)
+Repo: [WebCrypt](https://vulnerable9.github.io/webcrypt/)
 
-### Project 2: XSS
-A website that is deliberately vulnerable to XSS attacks 
+### Project 2: Lynkscrapr
+Lynkscrapr is a tool for scraping weblinks from websites.  
 
-Repo: [XSS](https://github.com/vulnerable9/xss)
+Repo: [Lynkscrapr](https://github.com/vulnerable9/lynkscrapr)
 
 ## 📫 Contact Me
 - Email: jothamrizanth2009@gmail.com
