@@ -23,10 +23,10 @@ Lynkscrapr is a tool for scraping weblinks from websites.
 Repo: [Lynkscrapr](https://github.com/vulnerable9/lynkscrapr)
 
 ## 📫 Contact Me
-- Email: jothamrizanth2009@gmail.com
+- Email: [jothamrizanth2009@gmail.com](mailto:jothamrizanth2009@gmail.com)
 
 ## 🌐 Find Me Online
-- [Personal Website](https://github.com/vulnerable9/vulnerable9)
+- [Personal Website](https://vulnerable9.github.io)
 - [Dev.to](https://dev.to/JothaM123)
   
 ## 🤝 Let's Collaborate
